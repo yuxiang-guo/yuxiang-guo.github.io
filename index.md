@@ -1,7 +1,7 @@
-<font face=Times New Roman># Yuxiang Guo(郭宇翔)</font>
-<center>Member of the Communist Party of China</center>
-<center>College of Computer Science, Beijing Institue of Technology </center>
-<center>email:yxguo@bit.edu.cn, bitgyx98@163.com</center>
+# Yuxiang Guo(郭宇翔)
+<center><font face=Times New Roman>Member of the Communist Party of China</font></center>
+<center><font face=Times New Roman>College of Computer Science, Beijing Institue of Technology</font> </center>
+<center><font face=Times New Roman>email:yxguo@bit.edu.cn, bitgyx98@163.com</font></center>
 ***
 
 ## Education experience
