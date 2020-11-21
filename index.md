@@ -1,19 +1,20 @@
+#Yuxiang Guo(郭宇翔)
+<center>College of Computer Science, Beijing Institue of Technology </center>
+<center>Member of the Communist Party of China</center>
+<center></centeremail:>email: yxguo@bit.edu.cn, bitgyx98@163.com</center>
+***
 
+##Education experience
 
-# Yuxiang Guo (郭宇翔)
-
-
-'''markdown
-# Updating...
-
-
-'''
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuxiang-guo/yuxiang-guo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+* 2017.09 - 2018.09 &nbsp;  School of Optoelectronics, Beijing Institute of Technology  
+* 2018.09 -&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;   School of Computer Science, Beijing Institute of Technology 
+* Ranking:&nbsp;7/224(3%)
+* CET6:&nbsp;571
+***
+##Project and Research experience
+* 1
+* 2
+***
+##Project and Research experience
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
