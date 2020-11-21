@@ -1,4 +1,5 @@
 <h1 style="font-family:Times New Roman" align="center">Yuxiang Guo</h1>
+![avatar](/Users/enovo/Pictures/1405562253928.jpg)
 <center><font face=Times New Roman>College of Computer Science</font></center>
 <center><font face=Times New Roman>Beijing Institue of Technology, China</font> </center>
 <center><font face=Times New Roman>email:yxguo@bit.edu.cn, bitgyx98@163.com</font></center>
@@ -24,7 +25,7 @@ Real-time Acquisition, Modeling and Reconstruction of Fluorescent Scene Spectrum
 ***
 
 <h2 style="font-family:Times New Roman">Awards</h2>
-* <font face=Times New Roman>Won the third prize in The 13th <b>China Computer Game Championship</b>.</font> 
+* <font face=Times New Roman>Won the third prize in <b>The 13th China Computer Game Championship</b>.</font> 
 * <font face=Times New Roman>Won the third prize in Beijing Institute of Technology <b>Century Cup Competition</b>.</font> 
 * <font face=Times New Roman>Won the <b>First Prize Scholarship of Beijing Institute of Technology</b>.</font>  
 * <font face=Times New Roman>Won the honorary title of <b>Outstanding Student of Beijing Institute of Technology</b>.</font>   
