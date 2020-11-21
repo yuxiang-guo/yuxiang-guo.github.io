@@ -1,4 +1,4 @@
-# Yuxiang Guo(郭宇翔)
+<div align='center' ><font size='70'>Yuxiang Guo</font></div>
 <center><font face=Times New Roman>Member of the Communist Party of China</font></center>
 <center><font face=Times New Roman>College of Computer Science, Beijing Institue of Technology</font> </center>
 <center><font face=Times New Roman>email:yxguo@bit.edu.cn, bitgyx98@163.com</font></center>
@@ -8,9 +8,9 @@
 
 * <font face=Times New Roman>2017.09 - 2018.09:&nbsp;&nbsp;School of Optoelectronics, Beijing Institute of Technology</font>  
 * <font face=Times New Roman>2018.09 - 2021.06:&nbsp;&nbsp;School of Computer Science, Beijing Institute of Technology</font> 
-* <font face=Times New Roman>Rank:&nbsp;&nbsp;&nbsp;**7/224**</font>
-* <font face=Times New Roman>CET4:&emsp;&nbsp;&nbsp;**600**</font>  
-* <font face=Times New Roman>CET6:&emsp;&nbsp;&nbsp;**571**</font>  
+* <font face=Times New Roman>Rank:</font>&nbsp;&nbsp;&nbsp;**7/224**
+* <font face=Times New Roman>CET4</font>:&emsp;&nbsp;&nbsp;**600**  
+* <font face=Times New Roman>CET6</font>:&emsp;&nbsp;&nbsp;**571** 
 
 ***
 
