@@ -1,6 +1,6 @@
-<div align='center' ><h1>Yuxiang Guo</h1></div>
-<center><font face=Times New Roman>Member of the Communist Party of China</font></center>
-<center><font face=Times New Roman>College of Computer Science, Beijing Institue of Technology</font> </center>
+<h1 style="font-family:Times New Roman" align="center">Yuxiang Guo</h1>
+<center><font face=Times New Roman>College of Computer Science</font></center>
+<center><font face=Times New Roman>Beijing Institue of Technology, China</font> </center>
 <center><font face=Times New Roman>email:yxguo@bit.edu.cn, bitgyx98@163.com</font></center>
 ***
 
