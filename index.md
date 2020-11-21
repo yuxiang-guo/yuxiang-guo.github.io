@@ -1,4 +1,4 @@
-<div align='center' ><font size='40';color=blue><b>Yuxiang Guo</b></font></div>
+<div align='center' ><h1>Yuxiang Guo</h1></div>
 <center><font face=Times New Roman>Member of the Communist Party of China</font></center>
 <center><font face=Times New Roman>College of Computer Science, Beijing Institue of Technology</font> </center>
 <center><font face=Times New Roman>email:yxguo@bit.edu.cn, bitgyx98@163.com</font></center>
@@ -16,17 +16,17 @@
 
 
 ## Project and Research experience
-* <font face=Times New Roman>Participated in the <b>Century Cup Science and Innovation Competition</b>of Beijing Institute of Technology. (2018.09 - 2019.03)</font> 
+* <font face=Times New Roman>Participated in the <b>Century Cup Science and Innovation Competition</b> of Beijing Institute of Technology. (2018.09 - 2019.03)</font> 
 * <font face=Times New Roman>Participated in the <b>General project of National Natural Science Foundation of China</b>:  
-Real-time Acquisition, Modeling and Reconstruction of Fluorescent Scene Spectrum. (2019.05 - 12)</font>   
+Real-time Acquisition, Modeling and Reconstruction of Fluorescent Scene Spectrum. (2019.05 - 2020.01)</font>   
 * <font face=Times New Roman>Participate in the <b>American College Students mathematical Modeling Contest</b>. (2020.02)</font>   
 
 ***
 
 ## Awards
-* <font face=Times New Roman>Won the third prize in The 13th <b>China Computer Game Championship</b></font> 
-* <font face=Times New Roman>Won the third prize in Beijing Institute of Technology <b>Century Cup Competition</b></font> 
-* <font face=Times New Roman>Won the <b>First Prize Scholarship of Beijing Institute of Technology</b></font>  
-* <font face=Times New Roman>Won the honorary title of <b>Outstanding Student of Beijing Institute of Technology</b></font>   
+* <font face=Times New Roman>Won the third prize in The 13th <b>China Computer Game Championship.</b></font> 
+* <font face=Times New Roman>Won the third prize in Beijing Institute of Technology <b>Century Cup Competition.</b></font> 
+* <font face=Times New Roman>Won the <b>First Prize Scholarship of Beijing Institute of Technology.</b></font>  
+* <font face=Times New Roman>Won the honorary title of <b>Outstanding Student of Beijing Institute of Technology.</b></font>   
 
 ***
