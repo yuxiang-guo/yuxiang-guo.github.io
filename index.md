@@ -1,10 +1,10 @@
-<div align='center' ><font size='40', color=blue><b>Yuxiang Guo</b></font></div>
+<div align='center' ><font size='40';color=blue><b>Yuxiang Guo</b></font></div>
 <center><font face=Times New Roman>Member of the Communist Party of China</font></center>
 <center><font face=Times New Roman>College of Computer Science, Beijing Institue of Technology</font> </center>
 <center><font face=Times New Roman>email:yxguo@bit.edu.cn, bitgyx98@163.com</font></center>
 ***
 
-<h2=Times New Roman>Education experience</h2>
+<h2>Education experience</h2>
 
 * <font face=Times New Roman>2017.09 - 2018.09:&nbsp;&nbsp;School of Optoelectronics, Beijing Institute of Technology</font>  
 * <font face=Times New Roman>2018.09 - 2021.06:&nbsp;&nbsp;School of Computer Science, Beijing Institute of Technology</font> 
@@ -16,10 +16,10 @@
 
 
 ## Project and Research experience
-* <font face=Times New Roman>Participated in the **Century Cup Science and Innovation Competition**of Beijing Institute of Technology. (2018.09 - 2019.03)</font> 
-* <font face=Times New Roman>Participated in the **General project of National Natural Science Foundation of China**:  
+* <font face=Times New Roman>Participated in the <b>Century Cup Science and Innovation Competition</b>of Beijing Institute of Technology. (2018.09 - 2019.03)</font> 
+* <font face=Times New Roman>Participated in the <b>General project of National Natural Science Foundation of China</b>:  
 Real-time Acquisition, Modeling and Reconstruction of Fluorescent Scene Spectrum. (2019.05 - 12)</font>   
-* <font face=Times New Roman>Participate in the **American College Students mathematical Modeling Contest**. (2020.02)</font>   
+* <font face=Times New Roman>Participate in the <b>American College Students mathematical Modeling Contest</b>. (2020.02)</font>   
 
 ***
 
