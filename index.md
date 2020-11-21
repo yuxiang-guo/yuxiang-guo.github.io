@@ -32,5 +32,5 @@ Real-time Acquisition, Modeling and Reconstruction of Fluorescent Scene Spectrum
 ***
 <h2 style="font-family:Times New Roman">Publications</h2>
 * <font face=Times New Roman><b>Illumination Modulation for Reflective and Fluorescent Separation<b><br/>
-<font face=Times New Roman>Ying Fu, Yunhao Zou, Liheng Bian, <b>Yuxiang Guo<b>, Hua Huang<br/>  
-<font face=Times New Roman>Optics Letters(OL), vol.45, no.5, pp.1120-1123, 2020
+Ying Fu, Yunhao Zou, Liheng Bian, Yuxiang Guo, Hua Huang<br/>  
+Optics Letters(OL), vol.45, no.5, pp.1120-1123, 2020
