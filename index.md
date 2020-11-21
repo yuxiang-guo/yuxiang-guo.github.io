@@ -1,5 +1,5 @@
 <h1 style="font-family:Times New Roman" align="center">Yuxiang Guo</h1>
-![avatar](/郭宇翔.jpg)
+<img src="http://static.runoob.com/images/runoob-logo.png" width="30%">
 <center><font face=Times New Roman>College of Computer Science</font></center>
 <center><font face=Times New Roman>Beijing Institue of Technology, China</font> </center>
 <center><font face=Times New Roman>email:yxguo@bit.edu.cn, bitgyx98@163.com</font></center>
