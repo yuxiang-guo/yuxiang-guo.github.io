@@ -17,12 +17,11 @@
 
 <h2 style="font-family:Times New Roman;font-weight:200">Project and Research experience</h2>
 * <font face=Times New Roman>Participated in the <b>Century Cup Science and Innovation Competition</b> of Beijing Institute of Technology. (2018.09 - 2019.03)</font> 
-* <font face=Times New Roman>Participated in the <b>General project of National Natural Science Foundation of China</b>:  
-Real-time Acquisition, Modeling and Reconstruction of Fluorescent Scene Spectrum. (2019.05 - 2020.01)   
+* <br/><font face=Times New Roman>Participated in the <b>General project of National Natural Science Foundation of China</b>:  
+Real-time Acquisition, Modeling and Reconstruction of Fluorescent Scene Spectrum. (2019.05 - 2020.01)</br>   
 Illumination Modulation for Reflective and Fluorescent Separation
 Ying Fu, Yunhao Zou, Liheng Bian, Yuxiang Guo, Hua Huang  
-Optics Letters(OL), vol.45, no.5, pp.1120-1123, 2020  
-</font>  
+Optics Letters(OL), vol.45, no.5, pp.1120-1123, 2020 
 * <font face=Times New Roman>Participate in the <b>American College Students mathematical Modeling Contest</b>. (2020.02)</font>   
 
 ***
