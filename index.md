@@ -1,4 +1,4 @@
-<h1 style="font-family:Times New Roman" align="center">Yuxiang Guo</h1>
+<h1 style="font-family:Times New Roman；font-weight:50" align="center">Yuxiang Guo</h1>
 <center><font face=Times New Roman>College of Computer Science</font></center>
 <center><font face=Times New Roman>Beijing Institue of Technology, China</font> </center>
 <center><font face=Times New Roman>email:yxguo@bit.edu.cn, bitgyx98@163.com</font></center>
