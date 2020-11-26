@@ -27,7 +27,7 @@ Real-time Acquisition, Modeling and Reconstruction of Fluorescent Scene Spectrum
 
 <h2 style="font-family:Times New Roman">Awards</h2>
 * <font face=Times New Roman>Won the third prize in <b>The 13th National Computer Games Tournament</b>.</font> 
-* <font face=Times New Roman>Won the third prize in Beijing Institute of Technology <b>Century Cup Competition</b>.</font> 
+* <font face=Times New Roman>Won the third prize in <b>Century Cup Competition</b> of Beijing Institute of Technology.</font> 
 * <font face=Times New Roman>Won the <b>First Prize Scholarship</b> of Beijing Institute of Technology.</font>  
 * <font face=Times New Roman>Won the honorary title of <b>Outstanding Student</b> of Beijing Institute of Technology.</font>   
 
