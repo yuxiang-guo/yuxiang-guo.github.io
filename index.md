@@ -1,6 +1,6 @@
 <h1 style="font-family:Times New Roman" align="center">Yuxiang Guo</h1>
 <!--  显示图片已注释 <div align="center"><img img src="/startnight.jpg" width="30%" align="middle" ></div>显示图片已注释  -->
-<div align="center"><img img src="/yx.jpg" width="13%" align="middle" ></div>
+<div align="center"><img img src="/yx.jpg" width="15%" align="middle" ></div>
 <center><font face=Times New Roman>College of Computer Science</font></center>
 <center><font face=Times New Roman>Beijing Institue of Technology, China</font> </center>
 <center><font face=Times New Roman>email:yxguo@bit.edu.cn, bitgyx98@163.com</font></center>
@@ -26,13 +26,13 @@ Real-time Acquisition, Modeling and Reconstruction of Fluorescent Scene Spectrum
 ***
 
 <h2 style="font-family:Times New Roman">Awards</h2>
-* <font face=Times New Roman>Won the third prize in <b>The 13th China Computer Game Championship</b>.</font> 
+* <font face=Times New Roman>Won the third prize in <b>The 13th National Computer Games Tournament</b>.</font> 
 * <font face=Times New Roman>Won the third prize in Beijing Institute of Technology <b>Century Cup Competition</b>.</font> 
-* <font face=Times New Roman>Won the <b>First Prize Scholarship of Beijing Institute of Technology</b>.</font>  
-* <font face=Times New Roman>Won the honorary title of <b>Outstanding Student of Beijing Institute of Technology</b>.</font>   
+* <font face=Times New Roman>Won the <b>First Prize Scholarship</b> of Beijing Institute of Technology.</font>  
+* <font face=Times New Roman>Won the honorary title of <b>Outstanding Student</b> of Beijing Institute of Technology.</font>   
 
 ***
 <h2 style="font-family:Times New Roman">Publications</h2>
 * <font face=Times New Roman><b>Illumination Modulation for Reflective and Fluorescent Separation</b><br/>
 Ying Fu, Yunhao Zou, Liheng Bian, <b>Yuxiang Guo</b>, Hua Huang<br/>  
-  Optics Letters(<b>SCI,IF=4.390</b>), vol.45, no.5, pp.1120-1123, 2020
+  Optics Letters(<b>SCI</b>), vol.45, no.5, pp.1120-1123, 2020
