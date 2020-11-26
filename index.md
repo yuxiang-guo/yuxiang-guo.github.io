@@ -1,6 +1,6 @@
 <h1 style="font-family:Times New Roman" align="center">Yuxiang Guo</h1>
 <!--  显示图片已注释 <div align="center"><img img src="/startnight.jpg" width="30%" align="middle" ></div>显示图片已注释  -->
-<div align="center"><img img src="/yx.jpg" width="20%" align="middle" ></div>
+<div align="center"><img img src="/yx.jpg" width="13%" align="middle" ></div>
 <center><font face=Times New Roman>College of Computer Science</font></center>
 <center><font face=Times New Roman>Beijing Institue of Technology, China</font> </center>
 <center><font face=Times New Roman>email:yxguo@bit.edu.cn, bitgyx98@163.com</font></center>
